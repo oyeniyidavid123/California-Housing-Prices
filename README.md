@@ -1,11 +1,13 @@
 # Project- California-Housing-Prices
+![image](https://user-images.githubusercontent.com/57304123/89096071-47b0bf00-d388-11ea-9fc0-70e83961d2f7.png)
 For this project we explored what factors that may influence the value of housing in Southern California (home values and rental prices).  We used machine learning tools to predict the price of a property based on the following features:
 ## City / Zip
 ## Number of bathrooms (half & full)
 ## Number of Bedrooms
 ## Building Size (sq ft)
 ## Lot Size (sq ft) 
-![image](https://user-images.githubusercontent.com/57304123/89096071-47b0bf00-d388-11ea-9fc0-70e83961d2f7.png)
+![image](https://user-images.githubusercontent.com/57304123/89096601-ae37dc00-d38c-11ea-8473-85da9a1fb557.png)
+
 
 ## Initial outcome using Linear Regression
 ![image](https://user-images.githubusercontent.com/57304123/89096375-1a194500-d38b-11ea-9342-d34c2e04bd90.png)
