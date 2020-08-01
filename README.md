@@ -27,9 +27,9 @@ After running our machine learning models, we found that our accuracy was not as
 We were limited at the time to only 200 listings per region. If we had more listings, we believe it would be much more accurate.
 ### Time Constraint:
 We would have liked to include other data sources that are key factors in determining the value of a property such as:
-### crime rate in the area
-### type of area location/ city
-### median household income 
+### Crime rate in the area
+### Type of area location/ city
+### Median household income 
 
 
 
