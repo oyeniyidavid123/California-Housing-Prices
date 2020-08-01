@@ -11,7 +11,7 @@ For this project we explored what factors that may influence the value of housin
 ![image](https://user-images.githubusercontent.com/57304123/89096375-1a194500-d38b-11ea-9342-d34c2e04bd90.png)
 
 
-## Outcome using Lasso 
+## Outcome using Lasso Model
 ![image](https://user-images.githubusercontent.com/57304123/89096506-fefb0500-d38b-11ea-9f47-212c63dd8f7d.png)
 
 
