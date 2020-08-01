@@ -1,5 +1,5 @@
 # Project- California-Housing-Prices
-For this project we explored what factors that may influence the value of housing in Southern California (home values and rental prices).We used a machine learning  to predict the price of a property based on the following features:
+For this project we explored what factors that may influence the value of housing in Southern California (home values and rental prices).  We used machine learning tools to predict the price of a property based on the following features:
 City / Zip
 Number of bathrooms (half & full)
 Number of Bedrooms
