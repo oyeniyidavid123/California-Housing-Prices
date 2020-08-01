@@ -13,6 +13,7 @@ For this project we explored what factors that may influence the value of housin
 
 
 ## Initial outcome using Linear Regression
+![image](https://user-images.githubusercontent.com/57304123/89096868-b6911680-d38e-11ea-9d5b-dd0e7d53bac2.png)
 ![image](https://user-images.githubusercontent.com/57304123/89096375-1a194500-d38b-11ea-9342-d34c2e04bd90.png)
 
 
