@@ -21,6 +21,19 @@ For this project we explored what factors that may influence the value of housin
 
 
 
+## Limitations
+After running our machine learning models, we found that our accuracy was not as high as we would have liked. We came to realize that this was due to a couple of factors:
+### Limited Data:
+We were limited at the time to only 200 listings per region. If we had more listings, we believe it would be much more accurate.
+### Time Constraint:
+We would have liked to include other data sources that are key factors in determining the value of a property such as:
+### crime rate in the area
+### type of area location/ city
+### median household income 
+
+
+
+
 
 
 
