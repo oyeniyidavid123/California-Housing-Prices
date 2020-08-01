@@ -12,6 +12,10 @@ For this project we explored what factors that may influence the value of housin
 ![image](https://user-images.githubusercontent.com/57304123/89096601-ae37dc00-d38c-11ea-8473-85da9a1fb557.png)
 
 
+## Cleaned data
+![image](https://user-images.githubusercontent.com/57304123/89096902-08d23780-d38f-11ea-8cc1-1f631a3d3a64.png)
+
+
 ## Initial outcome using Linear Regression
 ![image](https://user-images.githubusercontent.com/57304123/89096868-b6911680-d38e-11ea-9d5b-dd0e7d53bac2.png)
 ![image](https://user-images.githubusercontent.com/57304123/89096375-1a194500-d38b-11ea-9342-d34c2e04bd90.png)
